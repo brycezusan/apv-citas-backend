@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "star": "node server.js",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "author": "cesar briam zubilete sanchez",
